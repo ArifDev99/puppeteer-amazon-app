@@ -10,6 +10,12 @@ Clone the project
   git clone https://github.com/ArifDev99/puppeteer-amazon-app.git
 ```
 
+Go to the project directory
+
+```bash
+  cd puppeteer-amazon-app
+```
+
 Install all dependencies
 
 ```bash
