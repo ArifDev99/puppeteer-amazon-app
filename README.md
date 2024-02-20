@@ -2,7 +2,7 @@
 
 The App take a keyword as input via Get API, search the word on Amazon using puppeteer and return details of the first 4 products on AmazonName, such as Rating, No of Reviews and Price in josn format.
 
-Hit the below url in crome or postman to see output json
+Hit the below url in chrome or postman to see output json
 
 [http://localhost:3000/searchAmazon?keyword=mobile](http://localhost:3000/searchAmazon?keyword=mobile)
 
